@@ -11,7 +11,7 @@ This project contains tests for the Restful API using xUnit, RestSharp, and Flue
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/pushpitha96/QA_Engineer_C-_Test_Pushpitha.git
    cd RestfulApiTests
 
 2. Install dependencies:
