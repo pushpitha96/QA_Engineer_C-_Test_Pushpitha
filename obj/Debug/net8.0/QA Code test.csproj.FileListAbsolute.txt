@@ -102,3 +102,4 @@ D:\405 lap Backup\D\important\Interview Questions\Amused\QA Code test\obj\Debug\
 D:\405 lap Backup\D\important\Interview Questions\Amused\QA Code test\obj\Debug\net8.0\QA Code test.pdb
 D:\405 lap Backup\D\important\Interview Questions\Amused\QA Code test\obj\Debug\net8.0\QA Code test.genruntimeconfig.cache
 D:\405 lap Backup\D\important\Interview Questions\Amused\QA Code test\obj\Debug\net8.0\ref\QA Code test.dll
+D:\405 lap Backup\D\important\Interview Questions\Amused\QA Code test\obj\Debug\net8.0\QA Code test.sourcelink.json
